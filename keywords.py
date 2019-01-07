@@ -1,0 +1,1 @@
+keywords = ['nfv', 'iot', 'azure', 'telco' , '5g', 'edgecomputing' ]
