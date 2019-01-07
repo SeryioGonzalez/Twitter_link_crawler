@@ -19,7 +19,7 @@ MYSELF = 'YOUR_TWITTER_USER'
 ```
 Edit your favorite hashtags to follow:
 ```
-cat keywords.py
+$ cat keywords.py
 keywords = ['nfv', 'iot', 'azure', 'telco' , '5g', 'edgecomputing' ]
 ```
 
