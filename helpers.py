@@ -17,7 +17,6 @@ def twitter_setup():
 	
 def openBrowserTab(linkInTweet):
 	if linkInTweet is not None:
-		return
 		subprocess.run([chromeExecutable, linkInTweet])
 
 def filterTweetData(rawTweet, keyword):
